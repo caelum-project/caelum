@@ -15,8 +15,8 @@
     <properties/>
 
     <modules>
-        <module>modules</module>
-        <module>assemblies</module>
+
+        <module>runtime</module>
     </modules>
 
 </project>
